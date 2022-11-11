@@ -2,9 +2,13 @@
   "name": "dark-theme-vscode",
   "displayName": "Dark Theme VSCode",
   "description": "Dark Theme for VSCode",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "publisher": "tizianotedeschi",
   "icon": "images/logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tizianotedeschi/dark-theme-vscode"
+  },
   "keywords": [
     "dark",
     "dark theme",
