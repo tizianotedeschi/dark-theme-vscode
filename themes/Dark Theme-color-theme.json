@@ -11,7 +11,11 @@
 	  },
 	  "variable.defaultLibrary": {
 		"foreground": "#ffdd9d"
-	  }
+	  },
+	  "parameter.label:dart": {
+        "fontStyle": "",
+        "foreground": "#cccccc"
+      },
 	},
 	"tokenColors": [
 	  {
